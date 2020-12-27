@@ -13,7 +13,8 @@ Create an online grocery website for Web Programming class (SOEN 287).This websi
 
 
 SOEN287 Course project <br/>
-*this is only my part*
+//this is only my part, not the whole project
+
 Store/Team name: Foodsy<br/><br/>
 
 Link to hosted version : 	<a href="http://35.223.54.77/">http://35.223.54.77/</a><br/><br/>
